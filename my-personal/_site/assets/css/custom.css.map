@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/home.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;AAGJ;EACI;EACA","sourcesContent":["img.avatar {\n    float: right;\n    width: 30%;\n    margin: 2em 2em 2em 0;\n    border-radius: 50%;\n}\n\n.content {\n    margin-left: 5em;\n    margin-right: 5em;\n}"],"file":"custom.css"}

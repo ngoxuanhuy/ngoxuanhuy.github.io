@@ -1,0 +1,19 @@
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin : "neon"
+
+# Site Settings
+title                 : "Ngo Xuan Huy"
+name                  : "Ngo Xuan Huy"
+description           : "My online portfolio"
+
+# Site Author
+author:
+  name                : "Ngo Xuan Huy"
+  avatar              : # path of avatar image, e.g "/assets/images/bio-photo.jgp"
+  bio                 : "I am a computer techie"
+  location            : "Finland"
+  email               : "ngoxuanhuy96@gmail.com"
+  links               :
+    - label : "Website"
+      icon  : "fas fa-fw fa-link"
+      url   : "ngoxuanhuy.github.io"
